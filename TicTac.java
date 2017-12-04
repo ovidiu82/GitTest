@@ -37,4 +37,5 @@ public int castiga(){
 }
 
 } //end class
-// Comentariu adaugat
+
+// Nou comentariu 
